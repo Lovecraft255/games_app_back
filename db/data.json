@@ -1,0 +1,456 @@
+[
+	{
+		"title": "Elden Ring",
+		"developer": "FromSoftware",
+		"publisher": "Bandai Namco Entertainment",
+		"genres": [
+			"arpg"
+		],
+		"release": {
+			"day": 25,
+			"month": 2,
+			"year": 2022
+		},
+		"platforms": [
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			{
+				"name": "Xbox Series X/S",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			{
+				"name": "PlayStation 5",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			}
+		],
+		"engine": "unknown",
+		"modes": {
+			"single_player": true,
+			"multiplayer": true
+		},
+		"images": [
+			"db/images/EldenRing/1.jpg",
+			"db/images/EldenRing/2.jpg",
+			"db/images/EldenRing/3.jpg",
+			"db/images/EldenRing/4.jpg"
+		],
+		"premise": "Elden Ring takes place in the Lands Between, an island populated by a number of gods. The Elden Ring was created by a god called the Greater Will, who hurled it down from the cosmos in an attempt to bring order to the world. The Ring was housed inside the Erdtree, a golden tree that acts as a symbol of the Greater Will. The Lands Between were ruled over by Queen Marika the Eternal, who acted as keeper of the Elden Ring and had numerous  children. Marika eventually shattered the Elden Ring into multiple pieces and disappeared, causing her demigod children to war over pieces of the Ring in an event called the Shattering. Each demigod possesses a shard of the Ring, collectively called the Great Runes, which corrupt them with power. The player character is a Tarnished, one of a group of exiles from the Lands Between who were summoned back after the Shattering. As one of the Tarnished, the player must traverse the realm to become the Elden Lord"
+	},
+	{
+		"title": "Grand Theft Auto V",
+		"developer": "Rockstar North",
+		"publisher": "Rockstar Games",
+		"genres": [
+			"action-",
+			"adventure-",
+			"open-world"
+		],
+		"release": {
+			"day": 17,
+			"month": 9,
+			"year": 2013
+		},
+		"platforms": [
+			{
+				"name": "Xbox 360",
+				"releaseDate": {
+					"day": 17,
+					"month": 9,
+					"year": 2013
+				}
+			},
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 18,
+					"month": 11,
+					"year": 2014
+				}
+			},
+			{
+				"name": "Xbox Series X/S",
+				"releaseDate": {
+					"day": 15,
+					"month": 3,
+					"year": 2022
+				}
+			},
+			{
+				"name": "Playstation 3",
+				"releaseDate": {
+					"day": 17,
+					"month": 9,
+					"year": 2013
+				}
+			},
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 18,
+					"month": 11,
+					"year": 2014
+				}
+			},
+			{
+				"name": "PlayStation 5",
+				"releaseDate": {
+					"day": 15,
+					"month": 3,
+					"year": 2022
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 14,
+					"month": 4,
+					"year": 2015
+				}
+			}
+		],
+		"engine": "RAGE",
+		"modes": {
+			"single_player": true,
+			"multiplayer": true
+		},
+		"images": [
+			"db/images/GrandTheftAutoV/1.jpg",
+			"db/images/GrandTheftAutoV/2.jpg",
+			"db/images/GrandTheftAutoV/3.jpg",
+			"db/images/GrandTheftAutoV/4.jpg"
+		],
+		"premise": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other."
+	},
+	{
+		"title": "Assasin's Creed",
+		"developer": "Ubisoft Montreal",
+		"publisher": "Ubisoft",
+		"genres": [
+			"action-",
+			"adventure-",
+			"stealth"
+		],
+		"release": {
+			"day": 13,
+			"month": 11,
+			"year": 2007
+		},
+		"platforms": [
+			{
+				"name": "Xbox 360",
+				"releaseDate": {
+					"day": 13,
+					"month": 11,
+					"year": 2007
+				}
+			},
+			{
+				"name": "Playstation 3",
+				"releaseDate": {
+					"day": 13,
+					"month": 11,
+					"year": 2007
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 8,
+					"month": 4,
+					"year": 2008
+				}
+			}
+		],
+		"engine": "Ubisoft Anvil",
+		"modes": {
+			"single_player": true,
+			"multiplayer": false
+		},
+		"images": [
+			"db/images/AssassinsCreed/1.jpg",
+			"db/images/AssassinsCreed/2.jpg",
+			"db/images/AssassinsCreed/3.jpg",
+			"db/images/AssassinsCreed/4.hpg"
+		],
+		"premise": "Desmond Miles, a bartender, is kidnapped by the company Abstergo Industries for use as a test subject in the 'Animus', a device that can simulate genetic memory. Abstergo intends to put Desmond in the device to recall the memories of his ancestor, Altaïr Ibn-La'Ahad, a member of the Assassin Brotherhood in the year 1191, who lived during the Third Crusade in the Holy Land. Initially, Desmond has trouble adjusting to the device, but eventually relives Altaïr's exploits over the next several days. The game then primarily changes to Altaïr's point-of-view, with occasional transitions to Desmond, due to problems with the Animus or onset of the Bleeding."
+	},
+	{
+		"title": "Minecraft",
+		"developer": "Mojang",
+		"publisher": "Mojang, Sony, Xbox game",
+		"genres": [
+			"sandbox"
+		],
+		"release": {
+			"day": 18,
+			"month": 11,
+			"year": 2011
+		},
+		"platforms": [
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 5,
+					"month": 9,
+					"year": 2014
+				}
+			},
+			{
+				"name": "Xbox Series 360",
+				"releaseDate": {
+					"day": 9,
+					"month": 5,
+					"year": 2012
+				}
+			},
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 4,
+					"month": 9,
+					"year": 2014
+				}
+			},
+			{
+				"name": "PlayStation 3",
+				"releaseDate": {
+					"day": 17,
+					"month": 12,
+					"year": 2013
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 18,
+					"month": 11,
+					"year": 2011
+				}
+			}
+		],
+		"engine": "Bedrock Engine",
+		"modes": {
+			"single_player": true,
+			"multiplayer": true
+		},
+		"images": [
+			"db/images/minecraft/1.jpg",
+			"db/images/minecraft/2.jpg",
+			"db/images/minecraft/3.jpg",
+			"db/images/minecraft/4.jpg"
+		],
+		"premise": "Minecraft is an open world game, and it doesn't have a clearly defined purpose. This allows a great deal of freedom in terms of choosing how you play. Despite this, the game has a system that awards achievements for completing certain actions. The camera is first person, although players have the ability to switch to a third person perspective at any time.The game focuses on the placement and destruction of blocks, being that this is made up of cubic three-dimensional objects, placed on a fixed grid pattern. These cubes or blocks mainly represent different elements of nature, such as earth, stone, minerals, trunks, among others.29Players are free to move around and modify their environment by creating, collecting and transporting the blocks that make up the game, which can only be placed within the game's fixed grid.2930Players create ´farms´, which are structures and mechanisms to get a certain material easier (for example a farm that generates gold automatically). Special structures such as villages, mining galleries, sea temples, pyramids and jungle temples can be found in the game."
+	},
+	{
+		"title": "Dragon ball Budokai Tenkaichi 3",
+		"developer": "Spike Chunsoft",
+		"publisher": "Atari, Bandai",
+		"genres": [
+			"fight"
+		],
+		"release": {
+			"day": 4,
+			"month": 10,
+			"year": 2007
+		},
+		"platforms": [
+			{
+				"name": "PlayStation 2",
+				"releaseDate": {
+					"day": 4,
+					"month": 10,
+					"year": 2007
+				}
+			},
+			{
+				"name": "Wii",
+				"releaseDate": {
+					"day": 3,
+					"month": 12,
+					"year": 2007
+				}
+			}
+		],
+		"engine": "unknown",
+		"modes": {
+			"single_player": true,
+			"multiplayer": false
+		},
+		"images": [
+			"db/images/tenkaichi3/1.jpg",
+			"db/images/tenkaichi3/2.jpg",
+			"db/images/tenkaichi3/3.jpg",
+			"db/images/tenkaichi3/4.jpg"
+		],
+		"premise": "Dragon Ball: Budokai Tenkaichi 3, originally published as Dragon Ball Z: Sparking! Meteor (ドラゴンボールZ Sparking! METEOR Doragon Bōru Zetto Supākingu! Meteo?) in Japan, is the third game in the Budokai Tenkaichi series. The game is available for PlayStation 2 and Wii.3 The game was released in Japan on October 4, 2007,4 in North America on November 13, 20075 and in Europe on November 9, 2007 on PlayStation 2, the The Wii version was released on December 3, 2007 in North America, on October 4, 2007 in Japan, and on February 15, 2008 in Europe.Budokai Tenkaichi 3 features 97 characters (161 with transformations), the largest character roster in any Dragon Ball Z game, as well as one of the largest in any fighting game. Ryo Mito once stated that the game would feature never-before-seen characters exclusively for the game, ultimately resulting in characters as disparate as Neo Shenron and Hatchan. Gamestop is offering an exclusive version with a bonus DVD featuring the top 10 battles of the TV series voted by fans on the date of publication.Several of the notable new features include: battle replay, day and night stages, Wii's online capability, and PS2 Fusion Discs. Battle Replay allows players to capture their favorite fights and save them to the hard drive for later viewing. Night and day scenarios allow for more accurate battles in the Dragon Ball story, as well as the ability to transform into Ōzaru through the use of the Moon. There are also various time differences, such as sunrise and evening, not all scenarios provide different stages of the day. The Wii version has online play capability, the first game in the series to have such a feature. Players can battle anyone from around the world with a ranking system that shows the player's current position compared to anyone else. As compensation for the lack of this feature, Spike has added a new 'Disk Fusion System' to the PlayStation 2 version, inserting a copy of Budokai Tenkaichi or Budokai Tenkaichi 2, which unlocks Ultimate Battle and Ultimate Battle Z,3 modes that appear in the respective games needed to unlock."
+	},
+	{
+		"title": "Watch Dogs",
+		"developer": "Ubisoft Montreal",
+		"publisher": "Ubisoft",
+		"genres": [
+			"open-world-",
+			"action-",
+			"sigile-",
+			"adeventure"
+		],
+		"release": {
+			"day": 27,
+			"month": 5,
+			"year": 2014
+		},
+		"platforms": [
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 27,
+					"month": 5,
+					"year": 2014
+				}
+			},
+			{
+				"name": "PlayStation 3",
+				"releaseDate": {
+					"day": 27,
+					"month": 5,
+					"year": 2014
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 27,
+					"month": 5,
+					"year": 2014
+				}
+			},
+			{
+				"name": "Xbox 360",
+				"releaseDate": {
+					"day": 27,
+					"month": 5,
+					"year": 2014
+				}
+			},
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 27,
+					"month": 5,
+					"year": 2014
+				}
+			}
+		],
+		"engine": "Disrupt",
+		"modes": {
+			"single_player": true,
+			"multiplayer": true
+		},
+		"images": [
+			"db/images/watch dogs/1.jpg",
+			"db/images/watch dogs/2.jpg",
+			"db/images/watch dogs/3.jpg",
+			"db/images/watch dogs/4.jpg"
+		],
+		"premise": "Chicago becomes the first city in the world to implement 'ctOS' (in English: Central Operating System) which was developed by the technology company Blume, a centralized computer system that controls all technological devices in the city, and stores detailed information about its inhabitants, which can be used for different purposes. 5 The game's prologue begins with the protagonist Aiden Pearce, a hacker who works as a hired contractor to steal information, money and whatever else is assigned to him; In addition, he acts alongside Damien Brenks, a partner and partner of his. While they carry out an electronic robbery at the luxurious Hotel Merlaut, they coincidentally discover a network with valuable information that shows a video encrypted with secret data from political figures, in At that moment, a silent alarm controlled by another hacker is activated. Damien tries to find the hacker but gives himself and his partner away. Frightened, Aiden takes his family to a safe place with the excuse of being a surprise trip. Along the way, hit man Maurice Vega attacks them, leading to a car accident that kills Aiden's niece, Lena. A year later, Aiden begins a personal investigation to find out who or who is behind the death of his niece. First, Aiden tracks down Vega in a baseball stadium, but is unable to learn the identity of his contractor. Given this, he decides to leave it in the hands of his partner, the hired repairman Jordi Chin. From there, he visits his sister Nicole and his nephew Jackson, who was having a birthday, but finds out that someone is harassing them. With the help of Clara Lille, a member of the DedSec hacking syndicate seeking to expose Blume's corruption, Aiden manages to track down the stalker, revealed to be Damien, who wanted to draw his attention to help find the other hacker. that he detected in Merlaut.19 At first he refuses to collaborate, but after dealing with a witness from the stadium, he learns that Damien kidnapped Nicole to force him to participate. After establishing a new hideout in the Bunker, an old Blume base undetectable to the 'ctOS' system, Aiden tracks down the pirate revealing himself as Delford 'Iraq' Wade, leader of the gang and army veteran. , Aiden infiltrates a human auction he's attending to copy his passcode, and blackmails his cousin Tyrone 'Bedbug' Hayes into acting as his inside man. Later, Bedbug obtains a data sample that reveals Delford to have information on nearly every citizen of Chicago, which he uses to protect his gang from the authorities through blackmail. When Aiden and Clara come across data encrypted beyond their capabilities, they track down legendary hacker and former Blume whistleblower Raymond 'T-Bone' Kenney, who caused the 2003 Northeast blackout while trying to expose the dangers of 'ctOS.' . In parallel, Aiden infiltrates Blume's headquarters to erase Kenney's identity in said system, which allows him to return to Chicago, but Damien gives up this location, in exchange for having full access to 'ctOS', Aiden decides to look for him first. that Blume's security forces kill him. He then attacks Delford's compound to finish downloading the data from his server, which later confronts him and ends up killing him. Later, Aiden, Kenney and Clara are unable to decrypt the data because another hacker named JB Markowicz infiltrates their system to steal it and delete it from their servers. Elsewhere, Defalt reveals that Clara was hired to track down Aiden after Merlaut's job, thus she is indirectly responsible for Lena's death; Aiden, learning of this, angrily fires her. When Kenney finishes deciphering the data, he informs her of the identity of the man who ordered the attack on him, revealing himself to be Irish mob boss and Merlaut owner Dermot. Lucky» Quinn. Aiden confronts him, and he reveals that he ordered the attack because he believed he was looking for secret video footage of Mayor Donovan Rushmore murdering his secretary, after she found out about his dealings with Quinn, who was blackmailing him for it. After killing him by hacking into his pacemaker, Damien informs him that Quinn sent assassins to Clara to kill her, considering her a 'burden'. Unable to save her, Aiden makes all the material public, which angers Damien, and he begins to cause chaos in Chicago with the 'ctOS' system; Aiden shuts down the system with a virus created by Kenney and tracks it to a lighthouse. Jordi arrives, despite being hired to kill them both, Aiden wounds him and at the same time kills Damien. Later, Jordi calls him one last time to tell him where Vega is; Aiden heads there and decides his fate."
+	},
+	{
+		"title": "Devil May Cry 5",
+		"developer": "Capcom",
+		"publisher": "Capcom",
+		"genres": [
+			"hack and slash-",
+			"plataforms-",
+			"action"
+		],
+		"release": {
+			"day": 3,
+			"month": 3,
+			"year": 2019
+		},
+		"platforms": [
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 3,
+					"month": 3,
+					"year": 2019
+				}
+			},
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 3,
+					"month": 3,
+					"year": 2019
+				}
+			},
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 3,
+					"month": 3,
+					"year": 2019
+				}
+			},
+			{
+				"name": "PlayStation 5",
+				"releaseDate": {
+					"day": 17,
+					"month": 10,
+					"year": 2020
+				}
+			},
+			{
+				"name": "Xbox Series X/S",
+				"releaseDate": {
+					"day": 17,
+					"month": 10,
+					"year": 2020
+				}
+			}
+		],
+		"engine": "Re Engine",
+		"modes": {
+			"single_player": true,
+			"multiplayer": false
+		},
+		"images": [
+			"db/images/dmc5/1.jpg",
+			"db/images/dmc5/2.jpg",
+			"db/images/dmc5/3.jpg",
+			"db/images/dmc5/4.jpg"
+		],
+		"premise": "The story takes place five years after the events of Devil May Cry 4. Nero created his own demon hunting agency with a van adorned with a neon 'Devil May Cry' sign that Dante gave him with the encouragement of Kyrie and his Nico engineer. But on April 30, Nero encounters a dying demon who rips Devil Bringer's arm off and uses the Devil Arm Yamato to open a portal to escape. A few days later, a man known as 'V' comes to the Devil May Cry office to hire Dante, Lady, and Trish to kill a certain returning demon. The group arrives in Red Grave City on May 16, crossing paths with Nero as they share the same target: a demon named Urizen who planted a demon tree called the Qliphoth in the city, which is killing people for their blood. The assembled group try to attack Urizen together, but the demon overpowers them all with Dante causing V to take Nero to safety. With his Rebellion sword broken by Urizen, Dante is forced to use the Devil's Blade, but is ultimately defeated and cast out of the Qliphoth. Urizen then captures Lady and Trish, turning them into cores for the demons Artemis and Cavaliere Angelo. One month later, on June 15, Nero returns to the red tomb after being fitted with the 'Devil Breaker' prosthetic arm that Nico made for him. Nero meets V after defeating the demon Goliath, who seeks the Qliphoth for its fruit, born from condensed human blood, which makes whoever consumes it the king of the underworld. As the two destroy the Qliphoth roots while searching for Dante, Nero defeats Artemis to rescue Lady while V kills the demon-parasite Nidhogg, accidentally releasing the root construct Gilgamesh which then chases Nero. V rejoins Nero afterwards. to learn that another demon named Malphas is also after the fruit of the Qliphoth while searching for the Sparda in fear of her namesake's descendants acquiring it. V splits up to find the Sparda first and discovers her along with a hibernating Dante, whose presence was being hidden by the sword. However, V almost stabs Dante and says that he never existed, but he fails and tells Dante that it was the only way to wake him up. After Dante finds out what happened during his month-long nap, he fights his way to Urizen and frees Trish from Cavaliere Angelo along the way. V reveals to Trish that Urizen is actually the demon side of Dante's brother Vergil, who used Yamato's power to separate his demon and human halves, the latter of which manifested as V with his body now in her body. limit. Dante, having heard the full story when he first meets V, deduces that Rebellion's power is the opposite of the ability to unite the halves, as he travels the remnants of his childhood home. Realizing why his father gave him Rebellion, Dante stabs himself with the hilt of the broken sword to absorb the Sparda, taking on his Sin Devil Trigger form along with his own Dante Devil Sword. Nero attempts to confront Urizen again, but is outmatched once again, with Dante arriving just in time to save him. Dante takes the lead with his newfound powers until Urizen bids him farewell once the Qliphoth begins to bear fruit. While Dante is conflicted about having Nero join them, a sick V insists on it and the three of them split up to find their own way to Urizen. Dante arrives first and defeats King Cerberus before confronting Urizen, having now eaten the fruit of the Qliphoth. Meanwhile, after saving V from Malphas, Nero learns of Dante's history with Vergil. He and V reach Dante just as he defeats Urizen, but a dying V intervenes and merges with Urizen before Dante can finish him off, reviving Vergil once more. Dante attacks the newly resurrected Vergil, who quickly defeats him before opening a portal to the top of the Qliphoth Tree, telling Dante to make a full recovery before they go back inside. Nero insists on going after Vergil himself for answers to losing his arm. But Dante, knowing that he was the young demon hunter's uncle ever since they met in Fortuna, finally reveals to Nero that he is Vergil's son and sends him to keep his hands clean and not kill Vergil's own father. the. Nero, Nico, Lady, and Trish escape the slowly expanding Qliphoth, but despite the group's urging him not to confront his father, an angry and confused Nero returns to chasing Vergil. Dante fights his way through V's now independent kin before reaching Vergil and Sparda's sons engage in another duel, during which Dante tells Vergil that Nero is his son. After a call with Kyrie, Nero expresses his conflicted emotions for having in"
+	}
+]
